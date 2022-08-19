@@ -1,4 +1,9 @@
-### Hi there 👋
+### 
+- :wave: Hi, I'm NicoTC-04
+- :cloud: Web developer (JS, CSS, HTML, PHP)
+- :grin: Currently learning C++ and Python
+- :computer: Computer Science students
+- :coffee: I'm also a Java programmer
 
 <!--
 **nicoTC-04/nicoTC-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
