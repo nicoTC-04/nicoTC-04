@@ -2,7 +2,7 @@
 - :wave: Hi, I'm NicoTC-04
 - :cloud: Web developer (JS, CSS, HTML, PHP)
 - :grin: Currently learning C++ and Python
-- :computer: Computer Science students
+- :computer: Computer Science student
 - :coffee: I'm also a Java programmer
 
 <!--
