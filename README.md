@@ -9,8 +9,9 @@
 <br>
 
 - Passionate about coding and Data Science
+- Student in Tec de Monterrey in Mexico
 - Currently learning about competitive programming in c++
-- I’m currently working in BTC Business Transformation Consulting
+- Part time employee in BTC Business Transformation Consulting
 - Ready to connect and learn new things
 
 <br>
