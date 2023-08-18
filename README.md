@@ -78,6 +78,10 @@
 
 <br>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMtz1281&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<br>
+
 -----
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
